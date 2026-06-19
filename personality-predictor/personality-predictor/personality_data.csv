@@ -1,0 +1,11 @@
+social_hours,friends_count,party_frequency,personality
+1,2,0,Introvert
+2,3,1,Introvert
+1,1,0,Introvert
+3,4,1,Introvert
+5,8,3,Extrovert
+6,10,4,Extrovert
+7,12,5,Extrovert
+4,7,2,Extrovert
+2,2,1,Introvert
+8,15,5,Extrovert
