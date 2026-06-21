@@ -1,1 +1,0 @@
-# QuantPilot api package
